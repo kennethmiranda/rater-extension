@@ -249,7 +249,6 @@
 
         if (!notified15s && remaining <= 15000 && remaining > 5000) {
             notified15s = true;
-            document.body.style.backgroundColor = "#A91B0D";
             playSound(reminderSound);
         }
 
