@@ -1,4 +1,4 @@
-# RaterHub Helper
+# Rater Hub Helper
 
 A Tampermonkey script that helps you manage tasks on RaterHub more efficiently. It tracks session times, gives reminders, auto-submits tasks, and reloads the page when no tasks are available.
 
