@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         RaterHub Helper
+// @name         Rater Hub Helper
 // @namespace    http://tampermonkey.net/
 // @version      5
 // @description  Reminders, reload, auto-submit, and session tracking
