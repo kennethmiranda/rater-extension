@@ -13,4 +13,4 @@ It tracks session times, gives reminders, auto-submits tasks, and reloads the pa
 
 At the top of the script, you can change the sounds for task alerts and submission reminders.
 
-To enable email notifications, update the emailWebhookURL with your own Google Apps Script webhook.
+To enable email notifications on new tasks, update the emailWebhookURL with your own Google Apps Script webhook.
