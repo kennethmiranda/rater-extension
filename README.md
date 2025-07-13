@@ -2,14 +2,6 @@
 
 A Tampermonkey script that helps you manage tasks on RaterHub more efficiently. It tracks session times, gives reminders, auto-submits tasks, and reloads the page when no tasks are available.
 
-## What It Does
-
-- Tracks and shows your task session times by day
-- Alerts you shortly before time runs out
-- Automatically submits tasks at the last moment
-- Reloads the page when no tasks are available
-- Optionally sends an email when a new task appears
-
 ## How to Use
 
 1. Install the [Tampermonkey extension](https://www.tampermonkey.net/)
