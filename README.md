@@ -6,9 +6,9 @@ It tracks session times, gives reminders, auto-submits tasks, and reloads the pa
 <br/>
 <br/>
 ### How to Use
-  Install the [Tampermonkey extension](https://www.tampermonkey.net/)<br/><br/>
-  Add this script in Tampermonkey - Copy code or Import from [raw URL](https://github.com/kennethmiranda/rater-extension/raw/refs/heads/main/RaterHub.js)<br/><br/>
-  Visit task page and it will run automatically<br/>
+  Install the [Tampermonkey extension](https://www.tampermonkey.net/).<br/><br/>
+  Add this script in Tampermonkey - Copy code or Import from [raw URL](https://github.com/kennethmiranda/rater-extension/raw/refs/heads/main/RaterHub.js).<br/><br/>
+  Visit task page and it will run automatically.<br/>
 <br/>
 
 
