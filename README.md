@@ -4,9 +4,9 @@ A Tampermonkey script that helps you manage tasks on RaterHub more efficiently. 
 
 ## How to Use
 
-1. Install the [Tampermonkey extension](https://www.tampermonkey.net/)
-2. Add this script in Tampermonkey (copy the code or import it from the raw URL)
-3. Visit a RaterHub task page and it will run automatically
+- Install the [Tampermonkey extension](https://www.tampermonkey.net/)
+- Add this script in Tampermonkey (copy the code or import it from the raw URL)
+- Visit a RaterHub task page and it will run automatically
 
 ## Configuration
 
