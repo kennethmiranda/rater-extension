@@ -6,10 +6,10 @@ A Tampermonkey script that helps you manage tasks on RaterHub more efficiently. 
 
 1. Install the [Tampermonkey extension](https://www.tampermonkey.net/)
 2. Add this script in Tampermonkey (copy the code or import it from the raw URL)
-3. Visit a RaterHub task page — it will run automatically
+3. Visit a RaterHub task page and it will run automatically
 
 ## Configuration
 
 At the top of the script, you can change the sounds for task alerts and reminders.
 
-To enable email notifications, update the fetch() URL in sendEmailNotification() with your own Google Apps Script webhook.
+To enable email notifications, update the emailWebhookURL with your own Google Apps Script webhook.
